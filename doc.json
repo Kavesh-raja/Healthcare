@@ -1,0 +1,28 @@
+{
+  "Neuro normal": "Dr.Shruthi",
+  "Neuro emergency": "Dr.kavesh",
+  "Cardio normal": "Dr.Deekshika Abisheak",
+  "Cardio emergency": "Dr.Abisheak",
+  "Gyneco normal": "Dr.Disha",
+  "Gyneco emergency": "Dr.Bhuvi",
+  "Pyscho normal": "Dr.Pradeep",
+  "Pyscho emergency": "Dr.Maaya",
+
+  "Neuro normal roomno": "185",
+  "Neuro emergency roomno":"73" ,
+  "Cardio normal roomno": "721",
+  "Cardio emergency roomno": "722",
+  "Gyneco normal roomno": "69",
+  "Gyneco emergency roomno":"69",
+  "Pyscho normal roomno": "100",
+  "Pyscho emergency roomno": "101",
+
+  "Neuro normal fee": "1500",
+  "Neuro emergency fee": "will be informed",
+  "Cardio normal fee": "1499",
+  "Cardio emergency fee": "Will be informed",
+  "Gyneco normal fee": "100",
+  "Gyneco emergency fee": "",
+  "Pyscho normal fee": "700",
+  "Pyscho emergency fee": "will be informed"
+}
